@@ -1,4 +1,3 @@
-# OOP-Assignment2Solution
 # 🧾 Object-Oriented Programming Assignments (C#)
 
 This repository contains multiple C# assignments demonstrating key Object-Oriented Programming (OOP) concepts such as **Enums**, **Indexers**, **Encapsulation**, **Inheritance**, **Interfaces**, and **Polymorphism**.  
